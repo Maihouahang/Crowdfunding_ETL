@@ -18,7 +18,7 @@ Now, you do not want to run all the codes at once. Instructions to run the codes
 
   After importing all the files, you can run each "SELECT*FROM" codes for each table and get the results to pull on up on your end.
 
-  The "ALTER TABLE" codes do not need to be run as they were imported from creating a diagram with the QuickDBD website. If you would like to see how the diagram turned out, you can view the image crowdfunding_diagram.png
+  The "ALTER TABLE" codes do not need to be run as they were imported from creating a diagram with the QuickDBD website. If you would like to see how the diagram turned out, you can view the image crowdfunding_diagram.png located in the resources folder
 
 References
 
